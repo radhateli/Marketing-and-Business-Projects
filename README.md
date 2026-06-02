@@ -1,4 +1,4 @@
-# # KanoonSaathi ⚖️
+#  KanoonSaathi ⚖️
 
 ### Empowering Justice Through Technology
 
